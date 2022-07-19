@@ -1,3 +1,31 @@
+Main idea:
+ - MVP: Users can input what they ate for breakfast, lunch, and dinner. Ideally can prompt them out every day with a notification to fill out what they ate. 
+ - Carbon emmisions (from farming to transportation) from https://ourworldindata.org/environmental-impacts-of-food
+ - Every workspace has a "Food Impact" board, which contains the leaderboard for everyone in their, plus a page for company wide leaderboard
+ - Find a website to get the composition for every meal
+ - User can enter the number of cups or grams their meal was
+ 
+ Notes:
+  - Sabih - recommending we use React + Firebase Firestore.
+  - Ziva knows Figma UI
+ 
+ Next steps, touch base Saturday:
+ - Set up app - Sabih
+ - Find a website to get the composition for every meal - Ziva
+ - Look at what tech stack we should use + data storage - Everyone, Thursday let's decide tech stack
+ - Research how Monday works with how apps look - Ziva
+ - Research how Monday apps are made - Everyone
+
+Good to have:
+- Auto fill out if user inputted their meals into a fitness app
+- Land usage, water usage, and landfill waste
+- Add predetermined cup sizes for small vs. medium vs. large, or let them choose a specific number, and have pictures of 1, 2, 3 cups of rice, as reference
+so they can estimate their food without having to measure it
+
 food challenge with colleagues
 - maybe integrating with different calorie counting/fitness apps and comparing
+  - further down the road
 - add sustainability/food waste component
+
+Resources: 
+- https://ourworldindata.org/environmental-impacts-of-food
