@@ -8,7 +8,7 @@ This is the "Quickstart React" example Monday app.
 - [API](https://github.com/mondaycom/monday-sdk-js#mondayapiquery-options--)
 
 <br>You can find more info in our QuickStart guide [here](https://monday.com/developers/apps/quickstart-view/)
-<br /> ![Screenshot](https://dapulse-res.cloudinary.com/image/upload/w_900/v1591485466/remote_mondaycom_static/developers/screenshots/final_view.gif)
+<br />
 
 ## Run the project
 
