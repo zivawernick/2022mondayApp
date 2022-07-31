@@ -1,0 +1,15 @@
+Food Data Central: US Department of Agriculture Data Center and API info:
+
+https://fdc.nal.usda.gov/index.html
+
+
+Your API key for ziva.wernick@gmail.com is:
+
+Gts6la7ZRKL6E5ULQR7pk1e8xV4DGJT0rkc3fd84
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nal.usda.gov/fdc/v1/foods/search?query=apple&pageSize=2&api_key=Gts6la7ZRKL6E5ULQR7pk1e8xV4DGJT0rkc3fd84
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: ziva.wernick@gmail.com
+Account ID: df904cf6-6163-4dc7-8037-77912d1b3d63
